@@ -37,6 +37,16 @@ public class EnemyController : MonoBehaviour
 
     }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            Vector2 direccionDanio = new Vector2(transform.position.x, 0);
+
+            collision.gameObject.GetComponent<PlayerController>().RecibeDanio(direccionDanio, 1);
+        }
+    }
+
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;
