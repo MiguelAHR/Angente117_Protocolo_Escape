@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 25bb2c9f30e9af741afbe3f5c3bdac85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 966390555946513831
+    second: mecha boss animation death-Sheet_0
+  - first:
+      213: -6301851670717466555
+    second: mecha boss animation death-Sheet_1
+  - first:
+      213: 8673523682543075465
+    second: mecha boss animation death-Sheet_2
+  - first:
+      213: -8884890496463821759
+    second: mecha boss animation death-Sheet_3
+  - first:
+      213: 2765222906660193240
+    second: mecha boss animation death-Sheet_4
+  - first:
+      213: 5726386332183848452
+    second: mecha boss animation death-Sheet_5
+  - first:
+      213: -8619225614087593961
+    second: mecha boss animation death-Sheet_6
+  - first:
+      213: -1814799997442222860
+    second: mecha boss animation death-Sheet_7
+  - first:
+      213: -7678879760805600178
+    second: mecha boss animation death-Sheet_8
+  - first:
+      213: 3417626327579787827
+    second: mecha boss animation death-Sheet_9
+  - first:
+      213: -2974673546607852899
+    second: mecha boss animation death-Sheet_10
+  - first:
+      213: 4941247659441451262
+    second: mecha boss animation death-Sheet_11
+  - first:
+      213: 9115050374779288423
+    second: mecha boss animation death-Sheet_12
+  - first:
+      213: 6416071182981249809
+    second: mecha boss animation death-Sheet_13
+  - first:
+      213: 3944686319736206217
+    second: mecha boss animation death-Sheet_14
+  - first:
+      213: 8173968576316977522
+    second: mecha boss animation death-Sheet_15
+  - first:
+      213: -5113394486686310885
+    second: mecha boss animation death-Sheet_16
+  - first:
+      213: 750567618813645884
+    second: mecha boss animation death-Sheet_17
+  - first:
+      213: -3061778445867349715
+    second: mecha boss animation death-Sheet_18
+  - first:
+      213: 1525032241953429990
+    second: mecha boss animation death-Sheet_19
+  - first:
+      213: 4437531108919695305
+    second: mecha boss animation death-Sheet_20
+  - first:
+      213: -6121715537495809224
+    second: mecha boss animation death-Sheet_21
+  - first:
+      213: -5390994622546809936
+    second: mecha boss animation death-Sheet_22
+  - first:
+      213: 9106337423472155040
+    second: mecha boss animation death-Sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5fb79271f496d00800000000000000
+      internalID: 966390555946513831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548feab4b435b88a0800000000000000
+      internalID: -6301851670717466555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 6
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9800be0c5db8e5870800000000000000
+      internalID: 8673523682543075465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144a70aea2782b480800000000000000
+      internalID: -8884890496463821759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 6
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d30144359b006620800000000000000
+      internalID: 2765222906660193240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40668788706387f40800000000000000
+      internalID: 5726386332183848452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7106c5978fb526880800000000000000
+      internalID: -8619225614087593961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4931e740980d6e0800000000000000
+      internalID: -1814799997442222860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44ee30ca832f6590800000000000000
+      internalID: -7678879760805600178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3328a6e9909dd6f20800000000000000
+      internalID: 3417626327579787827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 0
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9200bb7b26d7b6d0800000000000000
+      internalID: -2974673546607852899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 6
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0fc300196d29440800000000000000
+      internalID: 4941247659441451262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 59
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bb282b50a2f7e70800000000000000
+      internalID: 9115050374779288423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 0
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bb7334fb67a0950800000000000000
+      internalID: 6416071182981249809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 6
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9833836de475eb630800000000000000
+      internalID: 3944686319736206217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2713494dc15cf6170800000000000000
+      internalID: 8173968576316977522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 38
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e1f986ec29909b0800000000000000
+      internalID: -5113394486686310885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 28
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c345c4bc54d8a6a00800000000000000
+      internalID: 750567618813645884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 35
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d290129b9b06285d0800000000000000
+      internalID: -3061778445867349715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 14
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9d6ac7eb00a2510800000000000000
+      internalID: 1525032241953429990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c757e25807459d30800000000000000
+      internalID: 4437531108919695305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833a293272c4b0ba0800000000000000
+      internalID: -6121715537495809224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb6e0914f65f25b0800000000000000
+      internalID: -5390994622546809936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation death-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a957e2a3a5306e70800000000000000
+      internalID: 9106337423472155040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mecha boss animation death-Sheet_0: 966390555946513831
+      mecha boss animation death-Sheet_1: -6301851670717466555
+      mecha boss animation death-Sheet_10: -2974673546607852899
+      mecha boss animation death-Sheet_11: 4941247659441451262
+      mecha boss animation death-Sheet_12: 9115050374779288423
+      mecha boss animation death-Sheet_13: 6416071182981249809
+      mecha boss animation death-Sheet_14: 3944686319736206217
+      mecha boss animation death-Sheet_15: 8173968576316977522
+      mecha boss animation death-Sheet_16: -5113394486686310885
+      mecha boss animation death-Sheet_17: 750567618813645884
+      mecha boss animation death-Sheet_18: -3061778445867349715
+      mecha boss animation death-Sheet_19: 1525032241953429990
+      mecha boss animation death-Sheet_2: 8673523682543075465
+      mecha boss animation death-Sheet_20: 4437531108919695305
+      mecha boss animation death-Sheet_21: -6121715537495809224
+      mecha boss animation death-Sheet_22: -5390994622546809936
+      mecha boss animation death-Sheet_23: 9106337423472155040
+      mecha boss animation death-Sheet_3: -8884890496463821759
+      mecha boss animation death-Sheet_4: 2765222906660193240
+      mecha boss animation death-Sheet_5: 5726386332183848452
+      mecha boss animation death-Sheet_6: -8619225614087593961
+      mecha boss animation death-Sheet_7: -1814799997442222860
+      mecha boss animation death-Sheet_8: -7678879760805600178
+      mecha boss animation death-Sheet_9: 3417626327579787827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

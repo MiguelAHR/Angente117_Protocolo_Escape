@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 09821ae0f847eb147adb29cf275453e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7516980456961901095
+    second: Droid02Death_0
+  - first:
+      213: -2298403660034581662
+    second: Droid02Death_1
+  - first:
+      213: 2398517647147598649
+    second: Droid02Death_2
+  - first:
+      213: 533153396756422497
+    second: Droid02Death_3
+  - first:
+      213: -2368642865154393634
+    second: Droid02Death_4
+  - first:
+      213: 5598193884647876445
+    second: Droid02Death_5
+  - first:
+      213: 2621429491289383202
+    second: Droid02Death_6
+  - first:
+      213: -3179731504967855734
+    second: Droid02Death_7
+  - first:
+      213: 7047918387470132913
+    second: Droid02Death_8
+  - first:
+      213: -8732409035476550283
+    second: Droid02Death_9
+  - first:
+      213: 185127688670336205
+    second: Droid02Death_10
+  - first:
+      213: 7709549382550944373
+    second: Droid02Death_11
+  - first:
+      213: -5073495732889817298
+    second: Droid02Death_12
+  - first:
+      213: -1107982910791982836
+    second: Droid02Death_13
+  - first:
+      213: -779669774812824096
+    second: Droid02Death_14
+  - first:
+      213: 9082978416040694494
+    second: Droid02Death_15
+  - first:
+      213: -1725683268876721950
+    second: Droid02Death_16
+  - first:
+      213: -9155522273594769951
+    second: Droid02Death_17
+  - first:
+      213: -3740212651576489660
+    second: Droid02Death_18
+  - first:
+      213: 3708951567285795325
+    second: Droid02Death_19
+  - first:
+      213: 4644848306622712818
+    second: Droid02Death_20
+  - first:
+      213: 6713041759559856406
+    second: Droid02Death_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Droid02Death_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 13
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd7b3fd9125ea790800000000000000
+      internalID: -7516980456961901095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b5e257c0e6a10e0800000000000000
+      internalID: -2298403660034581662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 17
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9330db9971f394120800000000000000
+      internalID: 2398517647147598649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 12
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f95788034266700800000000000000
+      internalID: 533153396756422497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 17
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed975be1dd3e02fd0800000000000000
+      internalID: -2368642865154393634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 15
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5763367da7c0bd40800000000000000
+      internalID: 5598193884647876445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 15
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2216900cb30316420800000000000000
+      internalID: 2621429491289383202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 15
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81d54d0b035fd3d0800000000000000
+      internalID: -3179731504967855734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 14
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6e9139e6c3fc160800000000000000
+      internalID: 7047918387470132913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d320f9f3040d680800000000000000
+      internalID: -8732409035476550283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4d849e6a4b19200800000000000000
+      internalID: 185127688670336205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_11
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57af7450152ddfa60800000000000000
+      internalID: 7709549382550944373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_12
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 34
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f64afe2825799b0800000000000000
+      internalID: -5073495732889817298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_13
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 8
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c016a09b967af90f0800000000000000
+      internalID: -1107982910791982836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 6
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed3c2e787e0e25f0800000000000000
+      internalID: -779669774812824096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 17
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed255a6eeb83d0e70800000000000000
+      internalID: 9082978416040694494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 9
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0a4c3c5342d08e0800000000000000
+      internalID: -1725683268876721950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_17
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edf43d000d01f080800000000000000
+      internalID: -9155522273594769951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 17
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4498c5ee868181cc0800000000000000
+      internalID: -3740212651576489660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9b231bcc7d87330800000000000000
+      internalID: 3708951567285795325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_20
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb42d7ece0d57040800000000000000
+      internalID: 4644848306622712818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droid02Death_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611bde0c9e3892d50800000000000000
+      internalID: 6713041759559856406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Droid02Death_0: -7516980456961901095
+      Droid02Death_1: -2298403660034581662
+      Droid02Death_10: 185127688670336205
+      Droid02Death_11: 7709549382550944373
+      Droid02Death_12: -5073495732889817298
+      Droid02Death_13: -1107982910791982836
+      Droid02Death_14: -779669774812824096
+      Droid02Death_15: 9082978416040694494
+      Droid02Death_16: -1725683268876721950
+      Droid02Death_17: -9155522273594769951
+      Droid02Death_18: -3740212651576489660
+      Droid02Death_19: 3708951567285795325
+      Droid02Death_2: 2398517647147598649
+      Droid02Death_20: 4644848306622712818
+      Droid02Death_21: 6713041759559856406
+      Droid02Death_3: 533153396756422497
+      Droid02Death_4: -2368642865154393634
+      Droid02Death_5: 5598193884647876445
+      Droid02Death_6: 2621429491289383202
+      Droid02Death_7: -3179731504967855734
+      Droid02Death_8: 7047918387470132913
+      Droid02Death_9: -8732409035476550283
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: d824632b124e5404fa315b9deb2fd399
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2522203659705290316
+    second: mecha boss animation Full jump-Sheet_0
+  - first:
+      213: -6861818727772894576
+    second: mecha boss animation Full jump-Sheet_1
+  - first:
+      213: 140814282074432861
+    second: mecha boss animation Full jump-Sheet_2
+  - first:
+      213: -4811701721416759916
+    second: mecha boss animation Full jump-Sheet_3
+  - first:
+      213: 8346645783426358201
+    second: mecha boss animation Full jump-Sheet_4
+  - first:
+      213: -1839284014781994461
+    second: mecha boss animation Full jump-Sheet_5
+  - first:
+      213: 5056383277781273683
+    second: mecha boss animation Full jump-Sheet_6
+  - first:
+      213: -404150696873641010
+    second: mecha boss animation Full jump-Sheet_7
+  - first:
+      213: -6461864156681330737
+    second: mecha boss animation Full jump-Sheet_8
+  - first:
+      213: 4988076130776594903
+    second: mecha boss animation Full jump-Sheet_9
+  - first:
+      213: -3880853550037808749
+    second: mecha boss animation Full jump-Sheet_10
+  - first:
+      213: -1807295554477963971
+    second: mecha boss animation Full jump-Sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mecha boss animation Full jump-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e8ce38ddaa00320800000000000000
+      internalID: 2522203659705290316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation Full jump-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 4
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a49f9f83ce5c0a0800000000000000
+      internalID: -6861818727772894576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation Full jump-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55295ee7d544f100800000000000000
+      internalID: 140814282074432861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation Full jump-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49581d127c6693db0800000000000000
+      internalID: -4811701721416759916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation Full jump-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbd32b1e1e35d370800000000000000
+      internalID: 8346645783426358201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation Full jump-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a6dd9feec8976e0800000000000000
+      internalID: -1839284014781994461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation Full jump-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cc0602dc1eb2640800000000000000
+      internalID: 5056383277781273683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation Full jump-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbbe1d151b246af0800000000000000
+      internalID: -404150696873641010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation Full jump-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 7
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf1e2239c8d256a0800000000000000
+      internalID: -6461864156681330737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation Full jump-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 7
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d93b8f10d4393540800000000000000
+      internalID: 4988076130776594903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation Full jump-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 7
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399cea40240742ac0800000000000000
+      internalID: -3880853550037808749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mecha boss animation Full jump-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 5
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35c237c4423be6e0800000000000000
+      internalID: -1807295554477963971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mecha boss animation Full jump-Sheet_0: 2522203659705290316
+      mecha boss animation Full jump-Sheet_1: -6861818727772894576
+      mecha boss animation Full jump-Sheet_10: -3880853550037808749
+      mecha boss animation Full jump-Sheet_11: -1807295554477963971
+      mecha boss animation Full jump-Sheet_2: 140814282074432861
+      mecha boss animation Full jump-Sheet_3: -4811701721416759916
+      mecha boss animation Full jump-Sheet_4: 8346645783426358201
+      mecha boss animation Full jump-Sheet_5: -1839284014781994461
+      mecha boss animation Full jump-Sheet_6: 5056383277781273683
+      mecha boss animation Full jump-Sheet_7: -404150696873641010
+      mecha boss animation Full jump-Sheet_8: -6461864156681330737
+      mecha boss animation Full jump-Sheet_9: 4988076130776594903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
