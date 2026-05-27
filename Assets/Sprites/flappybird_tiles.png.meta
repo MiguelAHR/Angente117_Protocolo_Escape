@@ -1,0 +1,2236 @@
+fileFormatVersion: 2
+guid: e6504972892102c478cded74a4f19084
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5550212789026858375
+    second: flappybird_tiles_0
+  - first:
+      213: 4283960992402984247
+    second: flappybird_tiles_1
+  - first:
+      213: 2012754662837986837
+    second: flappybird_tiles_2
+  - first:
+      213: -3665186634407218717
+    second: flappybird_tiles_3
+  - first:
+      213: -1640358363751051392
+    second: flappybird_tiles_4
+  - first:
+      213: -8919430705145668262
+    second: flappybird_tiles_5
+  - first:
+      213: -5663721795899815334
+    second: flappybird_tiles_6
+  - first:
+      213: 7450881382715361619
+    second: flappybird_tiles_7
+  - first:
+      213: 7630040212689858996
+    second: flappybird_tiles_8
+  - first:
+      213: -6352374713859014754
+    second: flappybird_tiles_9
+  - first:
+      213: -8411275148290997879
+    second: flappybird_tiles_10
+  - first:
+      213: -7374724473730672570
+    second: flappybird_tiles_11
+  - first:
+      213: -3877479415463199442
+    second: flappybird_tiles_12
+  - first:
+      213: -627977327880074473
+    second: flappybird_tiles_13
+  - first:
+      213: -223671948442990604
+    second: flappybird_tiles_14
+  - first:
+      213: 1026150721134312738
+    second: flappybird_tiles_15
+  - first:
+      213: 4585087048235639979
+    second: flappybird_tiles_16
+  - first:
+      213: 5978418659387235954
+    second: flappybird_tiles_17
+  - first:
+      213: 5201248930852078935
+    second: flappybird_tiles_18
+  - first:
+      213: -9131899496823545085
+    second: flappybird_tiles_19
+  - first:
+      213: 3784677482189398968
+    second: flappybird_tiles_20
+  - first:
+      213: -4431557117120842396
+    second: flappybird_tiles_21
+  - first:
+      213: 2606123766836944013
+    second: flappybird_tiles_22
+  - first:
+      213: -5636062410820757059
+    second: flappybird_tiles_23
+  - first:
+      213: 8439895867016211618
+    second: flappybird_tiles_24
+  - first:
+      213: -83664481767318863
+    second: flappybird_tiles_25
+  - first:
+      213: 6882773451082271065
+    second: flappybird_tiles_26
+  - first:
+      213: 6701843594337420778
+    second: flappybird_tiles_27
+  - first:
+      213: -652262262901522419
+    second: flappybird_tiles_28
+  - first:
+      213: -2007063868895511929
+    second: flappybird_tiles_29
+  - first:
+      213: -6318470659955170836
+    second: flappybird_tiles_30
+  - first:
+      213: -4907366075908292420
+    second: flappybird_tiles_31
+  - first:
+      213: -9150714062442261179
+    second: flappybird_tiles_32
+  - first:
+      213: 1282135150437118375
+    second: flappybird_tiles_33
+  - first:
+      213: -4619773560715570138
+    second: flappybird_tiles_34
+  - first:
+      213: -6990267856266063353
+    second: flappybird_tiles_35
+  - first:
+      213: -2677282250888294019
+    second: flappybird_tiles_36
+  - first:
+      213: -4589648768954668741
+    second: flappybird_tiles_37
+  - first:
+      213: -5984199136067041315
+    second: flappybird_tiles_38
+  - first:
+      213: -1617487645342699131
+    second: flappybird_tiles_39
+  - first:
+      213: -8615720767673264049
+    second: flappybird_tiles_40
+  - first:
+      213: -1586187462556501987
+    second: flappybird_tiles_41
+  - first:
+      213: 2910172181443559271
+    second: flappybird_tiles_42
+  - first:
+      213: 8472153751004563018
+    second: flappybird_tiles_43
+  - first:
+      213: 1443656462696427847
+    second: flappybird_tiles_44
+  - first:
+      213: 3482127856023231372
+    second: flappybird_tiles_45
+  - first:
+      213: 3088809293939504762
+    second: flappybird_tiles_46
+  - first:
+      213: 906556364899559051
+    second: flappybird_tiles_47
+  - first:
+      213: -1397238398625952540
+    second: flappybird_tiles_48
+  - first:
+      213: -278554406292656673
+    second: flappybird_tiles_49
+  - first:
+      213: 4674636069782521715
+    second: flappybird_tiles_50
+  - first:
+      213: -349499617621251543
+    second: flappybird_tiles_51
+  - first:
+      213: -7204008493798312097
+    second: flappybird_tiles_52
+  - first:
+      213: 8105538251808717642
+    second: flappybird_tiles_53
+  - first:
+      213: -4915205154155997743
+    second: flappybird_tiles_54
+  - first:
+      213: -3766496660459343560
+    second: flappybird_tiles_55
+  - first:
+      213: 8800036219799276727
+    second: flappybird_tiles_56
+  - first:
+      213: 2406869703276807927
+    second: flappybird_tiles_57
+  - first:
+      213: -1126071274260949096
+    second: flappybird_tiles_58
+  - first:
+      213: -8950151679945828222
+    second: flappybird_tiles_59
+  - first:
+      213: -4623403549975058457
+    second: flappybird_tiles_60
+  - first:
+      213: -2970502898532942710
+    second: flappybird_tiles_61
+  - first:
+      213: -3928374477642829197
+    second: flappybird_tiles_62
+  - first:
+      213: 3862321791735699576
+    second: flappybird_tiles_63
+  - first:
+      213: -1697150215881568389
+    second: flappybird_tiles_64
+  - first:
+      213: -8086837948027280076
+    second: flappybird_tiles_65
+  - first:
+      213: -5880934457602309600
+    second: flappybird_tiles_66
+  - first:
+      213: 3533463075746446528
+    second: flappybird_tiles_67
+  - first:
+      213: -5003483646260665448
+    second: flappybird_tiles_68
+  - first:
+      213: 7061226017775283329
+    second: flappybird_tiles_69
+  - first:
+      213: 3838133516465820038
+    second: flappybird_tiles_70
+  - first:
+      213: 8313478391135166714
+    second: flappybird_tiles_71
+  - first:
+      213: 3919731792279267235
+    second: flappybird_tiles_72
+  - first:
+      213: 163600257955201482
+    second: flappybird_tiles_73
+  - first:
+      213: 1365626345277985559
+    second: flappybird_tiles_74
+  - first:
+      213: 6210015631181139000
+    second: flappybird_tiles_75
+  - first:
+      213: -6691265737481498127
+    second: flappybird_tiles_76
+  - first:
+      213: 7159750448174751813
+    second: flappybird_tiles_77
+  - first:
+      213: -3046984966896624330
+    second: flappybird_tiles_78
+  - first:
+      213: -2503034608846173629
+    second: flappybird_tiles_79
+  - first:
+      213: 6719571007698988173
+    second: flappybird_tiles_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flappybird_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 145
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a593aefdea9f2b0800000000000000
+      internalID: -5550212789026858375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 255
+        width: 146
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d4fcf33dfa37b30800000000000000
+      internalID: 4283960992402984247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 455
+        width: 170
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516287aa3bdbeeb10800000000000000
+      internalID: 2012754662837986837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 492
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1f5accc24a22dc0800000000000000
+      internalID: -3665186634407218717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 501
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f074852c64c39e0800000000000000
+      internalID: -1640358363751051392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 489
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d9415e701d73480800000000000000
+      internalID: -8919430705145668262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 471
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a01c8c80b6661b0800000000000000
+      internalID: -5663721795899815334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 475
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35902502429d66760800000000000000
+      internalID: 7450881382715361619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 455
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b13353d52953e960800000000000000
+      internalID: 7630040212689858996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 459
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f7244aad4d7d7a0800000000000000
+      internalID: -6352374713859014754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 431
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9814b0641d5254b80800000000000000
+      internalID: -8411275148290997879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 427
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64857e20a27b7a990800000000000000
+      internalID: -7374724473730672570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 431
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d3d61f30d603ac0800000000000000
+      internalID: -3877479415463199442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 431
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b85bc82f9f847f0800000000000000
+      internalID: -627977327880074473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 433
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f706d64c8b55ecf0800000000000000
+      internalID: -223671948442990604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 408
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22db833e4ae9d3e00800000000000000
+      internalID: 1026150721134312738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 396
+        width: 91
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba46456a06081af30800000000000000
+      internalID: 4585087048235639979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 422
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ed75f781c97f250800000000000000
+      internalID: 5978418659387235954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 414
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75581df585c8e2840800000000000000
+      internalID: 5201248930852078935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 414
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303a34f5ac9f44180800000000000000
+      internalID: -9131899496823545085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 414
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3a1533e10e58430800000000000000
+      internalID: 3784677482189398968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 414
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46578280842ff72c0800000000000000
+      internalID: -4431557117120842396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 414
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cd40312cfca2420800000000000000
+      internalID: 2606123766836944013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 414
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9d817391fa8c1b0800000000000000
+      internalID: -5636062410820757059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 414
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ace9c61398802570800000000000000
+      internalID: 8439895867016211618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 404
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba11fbd893c6def0800000000000000
+      internalID: -83664481767318863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 394
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9598f3dbcf5848f50800000000000000
+      internalID: 6882773451082271065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 364
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae585bcbd3bb10d50800000000000000
+      internalID: 6701843594337420778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 364
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00cc5f7de2b2f6f0800000000000000
+      internalID: -652262262901522419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 378
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a36fc8b0a7524e0800000000000000
+      internalID: -2007063868895511929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 371
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1e4a559684058a0800000000000000
+      internalID: -6318470659955170836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 378
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb00fa6ed8885ebb0800000000000000
+      internalID: -4907366075908292420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 355
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54515f2fa02220180800000000000000
+      internalID: -9150714062442261179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 355
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1b8d3502f0bc110800000000000000
+      internalID: 1282135150437118375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 333
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6249ec25c6443efb0800000000000000
+      internalID: -4619773560715570138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 333
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7021e66bb649dfe90800000000000000
+      internalID: -6990267856266063353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 333
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7158584af168dad0800000000000000
+      internalID: -2677282250888294019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 333
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39e5aaf2ca4e40c0800000000000000
+      internalID: -4589648768954668741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 309
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd74685679ad3fca0800000000000000
+      internalID: -5984199136067041315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 309
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581f3ce6e878d89e0800000000000000
+      internalID: -1617487645342699131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 309
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4811ee1c9fce6880800000000000000
+      internalID: -8615720767673264049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 309
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18342328eabcf9e0800000000000000
+      internalID: -1586187462556501987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 289
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fba262e22036820800000000000000
+      internalID: 2910172181443559271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 295
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46ce1bf2f2239570800000000000000
+      internalID: 8472153751004563018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741b7bc67e5e80410800000000000000
+      internalID: 1443656462696427847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 259
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bd1c006d0035030800000000000000
+      internalID: 3482127856023231372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 195
+        width: 115
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76703800b7adda20800000000000000
+      internalID: 3088809293939504762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 231
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8625b2f53cb49c00800000000000000
+      internalID: 906556364899559051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 207
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec4d5f44130c9ce0800000000000000
+      internalID: -1397238398625952540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 191
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd6e4a4e30622cf0800000000000000
+      internalID: -278554406292656673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 195
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3778d99fcb4afd040800000000000000
+      internalID: 4674636069782521715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 27
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92aec8213f3562bf0800000000000000
+      internalID: -349499617621251543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5731408178360c90800000000000000
+      internalID: -7204008493798312097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b36645818ac7070800000000000000
+      internalID: 8105538251808717642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 28
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5dc5444fea9cbb0800000000000000
+      internalID: -4915205154155997743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 170
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83130a93e37babbc0800000000000000
+      internalID: -3766496660459343560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc05bb3152002a70800000000000000
+      internalID: 8800036219799276727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 144
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6c6743e3be66120800000000000000
+      internalID: 2406869703276807927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 155
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89797e964246f50f0800000000000000
+      internalID: -1126071274260949096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 140
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28896fe877caac380800000000000000
+      internalID: -8950151679945828222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 118
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7e47697fe56dfb0800000000000000
+      internalID: -4623403549975058457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 129
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cfca82a57a6c6d0800000000000000
+      internalID: -2970502898532942710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 120
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372736bd93c9b79c0800000000000000
+      internalID: -3928374477642829197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87818a4c439b99530800000000000000
+      internalID: 3862321791735699576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 92
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fc6ebded28278e0800000000000000
+      internalID: -1697150215881568389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4356faf6bb7c5cf80800000000000000
+      internalID: -8086837948027280076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 94
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0228243f449b26ea0800000000000000
+      internalID: -5880934457602309600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 66
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc73d042f1690130800000000000000
+      internalID: 3533463075746446528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 77
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8932821222e009ab0800000000000000
+      internalID: -5003483646260665448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 68
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ced34b6a38ef160800000000000000
+      internalID: 7061226017775283329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 36
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6815771191ac34530800000000000000
+      internalID: 3838133516465820038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 38
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af06f7fcc886f5370800000000000000
+      internalID: 8313478391135166714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 12
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a76c952c4fa56630800000000000000
+      internalID: 3919731792279267235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1059c5199354200800000000000000
+      internalID: 163600257955201482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 24
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7139536fceda3f210800000000000000
+      internalID: 1365626345277985559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ccc2280586e2650800000000000000
+      internalID: 6210015631181139000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 8
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f15cab7349d323a0800000000000000
+      internalID: -6691265737481498127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54066ef391b8c5360800000000000000
+      internalID: 7159750448174751813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ddb24f05fe6b5d0800000000000000
+      internalID: -3046984966896624330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a073fe84f634dd0800000000000000
+      internalID: -2503034608846173629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappybird_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c69ecca36b04d50800000000000000
+      internalID: 6719571007698988173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flappybird_tiles_0: -5550212789026858375
+      flappybird_tiles_1: 4283960992402984247
+      flappybird_tiles_10: -8411275148290997879
+      flappybird_tiles_11: -7374724473730672570
+      flappybird_tiles_12: -3877479415463199442
+      flappybird_tiles_13: -627977327880074473
+      flappybird_tiles_14: -223671948442990604
+      flappybird_tiles_15: 1026150721134312738
+      flappybird_tiles_16: 4585087048235639979
+      flappybird_tiles_17: 5978418659387235954
+      flappybird_tiles_18: 5201248930852078935
+      flappybird_tiles_19: -9131899496823545085
+      flappybird_tiles_2: 2012754662837986837
+      flappybird_tiles_20: 3784677482189398968
+      flappybird_tiles_21: -4431557117120842396
+      flappybird_tiles_22: 2606123766836944013
+      flappybird_tiles_23: -5636062410820757059
+      flappybird_tiles_24: 8439895867016211618
+      flappybird_tiles_25: -83664481767318863
+      flappybird_tiles_26: 6882773451082271065
+      flappybird_tiles_27: 6701843594337420778
+      flappybird_tiles_28: -652262262901522419
+      flappybird_tiles_29: -2007063868895511929
+      flappybird_tiles_3: -3665186634407218717
+      flappybird_tiles_30: -6318470659955170836
+      flappybird_tiles_31: -4907366075908292420
+      flappybird_tiles_32: -9150714062442261179
+      flappybird_tiles_33: 1282135150437118375
+      flappybird_tiles_34: -4619773560715570138
+      flappybird_tiles_35: -6990267856266063353
+      flappybird_tiles_36: -2677282250888294019
+      flappybird_tiles_37: -4589648768954668741
+      flappybird_tiles_38: -5984199136067041315
+      flappybird_tiles_39: -1617487645342699131
+      flappybird_tiles_4: -1640358363751051392
+      flappybird_tiles_40: -8615720767673264049
+      flappybird_tiles_41: -1586187462556501987
+      flappybird_tiles_42: 2910172181443559271
+      flappybird_tiles_43: 8472153751004563018
+      flappybird_tiles_44: 1443656462696427847
+      flappybird_tiles_45: 3482127856023231372
+      flappybird_tiles_46: 3088809293939504762
+      flappybird_tiles_47: 906556364899559051
+      flappybird_tiles_48: -1397238398625952540
+      flappybird_tiles_49: -278554406292656673
+      flappybird_tiles_5: -8919430705145668262
+      flappybird_tiles_50: 4674636069782521715
+      flappybird_tiles_51: -349499617621251543
+      flappybird_tiles_52: -7204008493798312097
+      flappybird_tiles_53: 8105538251808717642
+      flappybird_tiles_54: -4915205154155997743
+      flappybird_tiles_55: -3766496660459343560
+      flappybird_tiles_56: 8800036219799276727
+      flappybird_tiles_57: 2406869703276807927
+      flappybird_tiles_58: -1126071274260949096
+      flappybird_tiles_59: -8950151679945828222
+      flappybird_tiles_6: -5663721795899815334
+      flappybird_tiles_60: -4623403549975058457
+      flappybird_tiles_61: -2970502898532942710
+      flappybird_tiles_62: -3928374477642829197
+      flappybird_tiles_63: 3862321791735699576
+      flappybird_tiles_64: -1697150215881568389
+      flappybird_tiles_65: -8086837948027280076
+      flappybird_tiles_66: -5880934457602309600
+      flappybird_tiles_67: 3533463075746446528
+      flappybird_tiles_68: -5003483646260665448
+      flappybird_tiles_69: 7061226017775283329
+      flappybird_tiles_7: 7450881382715361619
+      flappybird_tiles_70: 3838133516465820038
+      flappybird_tiles_71: 8313478391135166714
+      flappybird_tiles_72: 3919731792279267235
+      flappybird_tiles_73: 163600257955201482
+      flappybird_tiles_74: 1365626345277985559
+      flappybird_tiles_75: 6210015631181139000
+      flappybird_tiles_76: -6691265737481498127
+      flappybird_tiles_77: 7159750448174751813
+      flappybird_tiles_78: -3046984966896624330
+      flappybird_tiles_79: -2503034608846173629
+      flappybird_tiles_8: 7630040212689858996
+      flappybird_tiles_80: 6719571007698988173
+      flappybird_tiles_9: -6352374713859014754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
