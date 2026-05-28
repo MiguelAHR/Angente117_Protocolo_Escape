@@ -1,40 +1,10 @@
 fileFormatVersion: 2
-guid: e9548f4b86e42d5409b155cf1e3c5adf
+guid: 75f75f9b7f2da0b408d08cbfabeff32b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8166341110088527619
-    second: cyber prisoner jump cycle -Sheet_0
-  - first:
-      213: 7235716650311409202
-    second: cyber prisoner jump cycle -Sheet_1
-  - first:
-      213: -8520751950482976642
-    second: cyber prisoner jump cycle -Sheet_2
-  - first:
-      213: -2025555572680148654
-    second: cyber prisoner jump cycle -Sheet_3
-  - first:
-      213: -437229463570643964
-    second: cyber prisoner jump cycle -Sheet_4
-  - first:
-      213: -3186925171331169363
-    second: cyber prisoner jump cycle -Sheet_5
-  - first:
-      213: -6340543247801174105
-    second: cyber prisoner jump cycle -Sheet_6
-  - first:
-      213: -2684571883027811632
-    second: cyber prisoner jump cycle -Sheet_7
-  - first:
-      213: -1286812354987238128
-    second: cyber prisoner jump cycle -Sheet_8
-  - first:
-      213: 3036243365476491415
-    second: cyber prisoner jump cycle -Sheet_9
-  - first:
-      213: -4593020854751412255
-    second: cyber prisoner jump cycle -Sheet_10
+      213: 9223288315582399796
+    second: barrier_idle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -130,243 +100,397 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cyber prisoner jump cycle -Sheet_0
+      name: Puerta_Laser_On_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 32
-        height: 32
+        height: 64
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 30fee75f8fba45170800000000000000
-      internalID: 8166341110088527619
+      spriteID: 2f1695bfb70aab440a33b8c866bd4e65
+      internalID: -924747937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cyber prisoner jump cycle -Sheet_1
+      name: Puerta_Laser_On_1
       rect:
         serializedVersion: 2
         x: 32
         y: 0
         width: 32
-        height: 32
+        height: 64
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 23ed03df4fd6a6460800000000000000
-      internalID: 7235716650311409202
+      spriteID: 10b5679965ad1d946b2ff0d52cd3b980
+      internalID: -1523812521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cyber prisoner jump cycle -Sheet_2
+      name: Puerta_Laser_On_2
       rect:
         serializedVersion: 2
         x: 64
         y: 0
         width: 32
-        height: 32
+        height: 64
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e70de34fe3530c980800000000000000
-      internalID: -8520751950482976642
+      spriteID: 80c4d5e6ca2f6da4283ed5ef0fc694e5
+      internalID: 172874766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cyber prisoner jump cycle -Sheet_3
+      name: Puerta_Laser_On_3
       rect:
         serializedVersion: 2
         x: 96
         y: 0
         width: 32
-        height: 32
+        height: 64
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 259369140f7c3e3e0800000000000000
-      internalID: -2025555572680148654
+      spriteID: 0ff0a79e10a457548bb960ed4fb423d4
+      internalID: -473344523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cyber prisoner jump cycle -Sheet_4
+      name: Puerta_Laser_On_4
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 32
-        height: 32
+        height: 64
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 40489829e16aee9f0800000000000000
-      internalID: -437229463570643964
+      spriteID: f5ae80aafaf875f438666f482fae9c22
+      internalID: -1050891663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cyber prisoner jump cycle -Sheet_5
+      name: Puerta_Laser_On_5
       rect:
         serializedVersion: 2
         x: 160
         y: 0
         width: 32
-        height: 32
+        height: 64
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: da30e051174c5c3d0800000000000000
-      internalID: -3186925171331169363
+      spriteID: 0244cfcf77b1c8449bc9186be1a5cb72
+      internalID: -1813368140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cyber prisoner jump cycle -Sheet_6
+      name: Puerta_Laser_On_6
       rect:
         serializedVersion: 2
         x: 192
         y: 0
         width: 32
-        height: 32
+        height: 64
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7a73fcf728dd108a0800000000000000
-      internalID: -6340543247801174105
+      spriteID: 870a026cc2c309c448397876966638e4
+      internalID: -1535419191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cyber prisoner jump cycle -Sheet_7
+      name: Puerta_Laser_On_7
       rect:
         serializedVersion: 2
         x: 224
         y: 0
         width: 32
-        height: 32
+        height: 64
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0d2302a881c7ebad0800000000000000
-      internalID: -2684571883027811632
+      spriteID: 2015a0f93daf85541a5d476f269309bf
+      internalID: 1519563366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cyber prisoner jump cycle -Sheet_8
+      name: Puerta_Laser_On_8
       rect:
         serializedVersion: 2
         x: 256
         y: 0
         width: 32
-        height: 32
+        height: 64
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 01dd6602bf2542ee0800000000000000
-      internalID: -1286812354987238128
+      spriteID: 79438c51bcc43a54782522727da3c4b5
+      internalID: -2116609044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cyber prisoner jump cycle -Sheet_9
+      name: Puerta_Laser_On_9
       rect:
         serializedVersion: 2
         x: 288
         y: 0
         width: 32
-        height: 32
+        height: 64
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 790ecd21147e22a20800000000000000
-      internalID: 3036243365476491415
+      spriteID: 4f84dc4dbbcd5334c9ab9fa701c3668b
+      internalID: 1071613843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cyber prisoner jump cycle -Sheet_10
+      name: Puerta_Laser_On_10
       rect:
         serializedVersion: 2
         x: 320
         y: 0
         width: 32
-        height: 32
+        height: 64
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1efb4921edf4240c0800000000000000
-      internalID: -4593020854751412255
+      spriteID: 06284793277b093468815236cd9bbd8a
+      internalID: 884709664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta_Laser_On_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f31722c2842134e967a8ca1c6e2a66
+      internalID: -1632727548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta_Laser_On_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc7469e4f62b6c439eb5ad608f3fed0
+      internalID: 1626986742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta_Laser_On_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2068b87c2f55449b24152dce52e00a
+      internalID: -2078316182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta_Laser_On_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a37f96913a28b409b39eeac27b428a
+      internalID: 487789271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta_Laser_On_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9433245fa2f0a40ab521dfdaa18f77
+      internalID: -277464853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta_Laser_On_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce50875651bb6f7408c9f02a1da1893e
+      internalID: 730456704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta_Laser_On_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f78926c59bd27546a97f491073fbe8f
+      internalID: -176788795
       vertices: []
       indices: 
       edges: []
@@ -375,7 +499,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5199d2eb78c9ff94983ef67f092bed1a
+    spriteID: f8af5baf0551419459cbf192bcba9050
     internalID: 0
     vertices: []
     indices: 
@@ -385,19 +509,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":11.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":18.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      cyber prisoner jump cycle -Sheet_0: 8166341110088527619
-      cyber prisoner jump cycle -Sheet_1: 7235716650311409202
-      cyber prisoner jump cycle -Sheet_10: -4593020854751412255
-      cyber prisoner jump cycle -Sheet_2: -8520751950482976642
-      cyber prisoner jump cycle -Sheet_3: -2025555572680148654
-      cyber prisoner jump cycle -Sheet_4: -437229463570643964
-      cyber prisoner jump cycle -Sheet_5: -3186925171331169363
-      cyber prisoner jump cycle -Sheet_6: -6340543247801174105
-      cyber prisoner jump cycle -Sheet_7: -2684571883027811632
-      cyber prisoner jump cycle -Sheet_8: -1286812354987238128
-      cyber prisoner jump cycle -Sheet_9: 3036243365476491415
+      Puerta_Laser_On_0: -924747937
+      Puerta_Laser_On_1: -1523812521
+      Puerta_Laser_On_10: 884709664
+      Puerta_Laser_On_11: -1632727548
+      Puerta_Laser_On_12: 1626986742
+      Puerta_Laser_On_13: -2078316182
+      Puerta_Laser_On_14: 487789271
+      Puerta_Laser_On_15: -277464853
+      Puerta_Laser_On_16: 730456704
+      Puerta_Laser_On_17: -176788795
+      Puerta_Laser_On_2: 172874766
+      Puerta_Laser_On_3: -473344523
+      Puerta_Laser_On_4: -1050891663
+      Puerta_Laser_On_5: -1813368140
+      Puerta_Laser_On_6: -1535419191
+      Puerta_Laser_On_7: 1519563366
+      Puerta_Laser_On_8: -2116609044
+      Puerta_Laser_On_9: 1071613843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
