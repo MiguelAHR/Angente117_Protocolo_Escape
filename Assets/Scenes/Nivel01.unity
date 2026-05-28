@@ -3229,7 +3229,7 @@ GameObject:
   - component: {fileID: 1152925141}
   - component: {fileID: 1152925140}
   - component: {fileID: 1152925139}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: level_tileset_13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12236,7 +12236,7 @@ GameObject:
   - component: {fileID: 1722868931}
   - component: {fileID: 1722868930}
   - component: {fileID: 1722868929}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: enemigo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
