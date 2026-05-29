@@ -157,441 +157,441 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: control_panel_idle_0
+      name: Punto_Control_Off_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 32c002dee6f5d9570800000000000000
-      internalID: 8475035003810483235
+      spriteID: 628383451886cf0489c8673142e45f4f
+      internalID: 1341064667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_1
+      name: Punto_Control_Off_1
       rect:
         serializedVersion: 2
         x: 32
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a0d2645e4dcfa9bd0800000000000000
-      internalID: -2622505841680044790
+      spriteID: 598e9c6f88474324ca0a69813bfb82b1
+      internalID: 1091574502
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_2
+      name: Punto_Control_Off_2
       rect:
         serializedVersion: 2
         x: 64
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 971c55b62bd6e4810800000000000000
-      internalID: 1751457918166090105
+      spriteID: b6da63888fce1fa4e99f2dc5e26208ce
+      internalID: -759144417
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_3
+      name: Punto_Control_Off_3
       rect:
         serializedVersion: 2
         x: 96
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2189fd90db6e5b4d0800000000000000
-      internalID: -3119333467295344622
+      spriteID: 60504db5f876deb40a016e27a510005c
+      internalID: 731218643
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_4
+      name: Punto_Control_Off_4
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7d91b35c3628363d0800000000000000
-      internalID: -3214582343990044201
+      spriteID: 5ddfed158daea4a489eb89ed7468bfdd
+      internalID: 708295886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_5
+      name: Punto_Control_Off_5
       rect:
         serializedVersion: 2
         x: 160
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5bae827ab0346c9d0800000000000000
-      internalID: -2754440404762301771
+      spriteID: 4ede8b859483f7a498826c848ed8469f
+      internalID: 795271064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_6
+      name: Punto_Control_Off_6
       rect:
         serializedVersion: 2
         x: 192
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 50a27d6521aac55a0800000000000000
-      internalID: -6531158363850987003
+      spriteID: ad18d6a93d3580c469a290c4b782b9e4
+      internalID: 741864676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_7
+      name: Punto_Control_Off_7
       rect:
         serializedVersion: 2
         x: 224
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d3723d67badfe6b30800000000000000
-      internalID: 4282639208550704957
+      spriteID: 31a9fc2870cddbc4d89b37f47de7283c
+      internalID: 1555581262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_8
+      name: Punto_Control_Off_8
       rect:
         serializedVersion: 2
         x: 256
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d6659a0c424daa770800000000000000
-      internalID: 8622937690870470253
+      spriteID: d1cee844adbef26458f0091c3a7b57b7
+      internalID: -606527111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_9
+      name: Punto_Control_Off_9
       rect:
         serializedVersion: 2
         x: 288
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 91247c5f9f5e50f00800000000000000
-      internalID: 1082524147185566233
+      spriteID: bcd8493a0545c774e88dbf4a74b29e89
+      internalID: -1674061122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_10
+      name: Punto_Control_Off_10
       rect:
         serializedVersion: 2
         x: 320
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9767326132c32bb20800000000000000
-      internalID: 3148645210878342777
+      spriteID: c689940a8e995844395b0e6590f69ff3
+      internalID: 283041442
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_11
+      name: Punto_Control_Off_11
       rect:
         serializedVersion: 2
         x: 352
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e4b8d9b8329819880800000000000000
-      internalID: -8605946627169088690
+      spriteID: 71f4c95df79dc844d9cb7df636cb2c04
+      internalID: 436623718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_12
+      name: Punto_Control_Off_12
       rect:
         serializedVersion: 2
         x: 384
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 89f19ed9660b98620800000000000000
-      internalID: 2776944600033075096
+      spriteID: 434413c5495627047b61e664da4923b7
+      internalID: -1721256650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_13
+      name: Punto_Control_Off_13
       rect:
         serializedVersion: 2
         x: 416
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e12b95b378722ed50800000000000000
-      internalID: 6765013052033708574
+      spriteID: 7ef3ac817d4de084c9f91c7475f40cf3
+      internalID: 660276919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_14
+      name: Punto_Control_Off_14
       rect:
         serializedVersion: 2
         x: 448
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 24db8adfb0ea326f0800000000000000
-      internalID: -710532949670838974
+      spriteID: dabe483a5b53f534d966916852e832f7
+      internalID: -2106703432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_15
+      name: Punto_Control_Off_15
       rect:
         serializedVersion: 2
         x: 480
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b976a787f87550270800000000000000
-      internalID: 8216069368920565659
+      spriteID: c15bd9e998f906a4bb88e6c790898176
+      internalID: -1513271077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_16
+      name: Punto_Control_Off_16
       rect:
         serializedVersion: 2
         x: 512
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6115b305df61506e0800000000000000
-      internalID: -1872064792873971434
+      spriteID: 28c1970cee23d254eb4fdb547eb29bbc
+      internalID: 833001077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_17
+      name: Punto_Control_Off_17
       rect:
         serializedVersion: 2
         x: 544
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 820e524bc954782a0800000000000000
-      internalID: -6735338178369691608
+      spriteID: 6c9dfa95d5714fc449d0e2891eb97eba
+      internalID: -12986458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_18
+      name: Punto_Control_Off_18
       rect:
         serializedVersion: 2
         x: 576
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 593cbf741568b7590800000000000000
-      internalID: -7675393456264723563
+      spriteID: 38b898936f8838646be91b137ec881b8
+      internalID: -1496369720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: control_panel_idle_19
+      name: Punto_Control_Off_19
       rect:
         serializedVersion: 2
         x: 608
         y: 0
         width: 32
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 083429e6562a60620800000000000000
-      internalID: 2740055979832001408
+      spriteID: 7af70fb0a223401459f6e19bf49552a8
+      internalID: 1311284135
       vertices: []
       indices: 
       edges: []
@@ -600,7 +600,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ddfdda9e41b47ba43aabdacff6c95ce9
     internalID: 0
     vertices: []
     indices: 
@@ -608,28 +608,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":20.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      control_panel_idle_0: 8475035003810483235
-      control_panel_idle_1: -2622505841680044790
-      control_panel_idle_10: 3148645210878342777
-      control_panel_idle_11: -8605946627169088690
-      control_panel_idle_12: 2776944600033075096
-      control_panel_idle_13: 6765013052033708574
-      control_panel_idle_14: -710532949670838974
-      control_panel_idle_15: 8216069368920565659
-      control_panel_idle_16: -1872064792873971434
-      control_panel_idle_17: -6735338178369691608
-      control_panel_idle_18: -7675393456264723563
-      control_panel_idle_19: 2740055979832001408
-      control_panel_idle_2: 1751457918166090105
-      control_panel_idle_3: -3119333467295344622
-      control_panel_idle_4: -3214582343990044201
-      control_panel_idle_5: -2754440404762301771
-      control_panel_idle_6: -6531158363850987003
-      control_panel_idle_7: 4282639208550704957
-      control_panel_idle_8: 8622937690870470253
-      control_panel_idle_9: 1082524147185566233
+      Punto_Control_Off_0: 1341064667
+      Punto_Control_Off_1: 1091574502
+      Punto_Control_Off_10: 283041442
+      Punto_Control_Off_11: 436623718
+      Punto_Control_Off_12: -1721256650
+      Punto_Control_Off_13: 660276919
+      Punto_Control_Off_14: -2106703432
+      Punto_Control_Off_15: -1513271077
+      Punto_Control_Off_16: 833001077
+      Punto_Control_Off_17: -12986458
+      Punto_Control_Off_18: -1496369720
+      Punto_Control_Off_19: 1311284135
+      Punto_Control_Off_2: -759144417
+      Punto_Control_Off_3: 731218643
+      Punto_Control_Off_4: 708295886
+      Punto_Control_Off_5: 795271064
+      Punto_Control_Off_6: 741864676
+      Punto_Control_Off_7: 1555581262
+      Punto_Control_Off_8: -606527111
+      Punto_Control_Off_9: -1674061122
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
