@@ -8,13 +8,15 @@ public class EnemyController : MonoBehaviour
 
     private Rigidbody2D rb;
     private Vector2 movement;
-
+    private bool enMovimiento;
+    private Animator animator;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -26,14 +28,28 @@ public class EnemyController : MonoBehaviour
         {
             Vector2 direction = (player.position - transform.position).normalized;
 
+            if (direction.x < 0)
+            {
+                transform.localScale = new Vector3(-1, 1, 1);
+            }
+            if (direction.x > 0)
+            {
+                transform.localScale = new Vector3(1, 1, 1);
+            }
+
             movement = new Vector2(direction.x, 0);
+
+            enMovimiento = true;
         }
         else
         {
             movement = Vector2.zero;
+            enMovimiento = false;
         }
 
         rb.MovePosition(rb.position +  movement * speed * Time.deltaTime);
+
+        animator.SetBool("enMovimiento", enMovimiento);
 
     }
 

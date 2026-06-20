@@ -2,7 +2,15 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public PlayerSoundController playerSoundController;
+    
     public float velocidad = 5f;
+    public bool step1 = false;
+    public bool fall = false;
+
+    public float timeByStep= 0.5f;
+    float cont = 0f;
+
 
     public float fuerzaSalto = 10f;
     public float fuerzaRebote = 10f;
@@ -25,6 +33,25 @@ public class PlayerController : MonoBehaviour
     {
         float velocidadX = Input.GetAxis("Horizontal") * Time.deltaTime * velocidad;
 
+
+        if (velocidadX !=0 && enSuelo && !recibiendoDanio )
+        {
+            cont += Time.deltaTime;
+            if(cont >= timeByStep)
+            {
+                cont = 0f;
+                if (step1)
+                {
+                    playerSoundController.playMov1();
+                }
+                else
+                {
+                    playerSoundController.playMov2();
+                }
+                step1 = !step1;
+            }
+        }
+
         animator.SetFloat("movement", velocidadX * velocidad);
 
         if (velocidadX < 0)
@@ -44,8 +71,16 @@ public class PlayerController : MonoBehaviour
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, longitudRaycast, capaSuelo);
         enSuelo = hit.collider != null;
 
+        if(enSuelo && rb.linearVelocity.y<0 && fall)
+        {
+            playerSoundController.playCaida();
+            fall = false;
+        }
+
         if (enSuelo && Input.GetKeyDown(KeyCode.Space) && !recibiendoDanio)
         {
+            fall = true;
+            playerSoundController.playSaltar();
             rb.AddForce(new Vector2(0f, fuerzaSalto), ForceMode2D.Impulse);
         }
 
@@ -57,6 +92,8 @@ public class PlayerController : MonoBehaviour
     {
         if(!recibiendoDanio)
         {
+            playerSoundController.playRecibirDanio();
+
             recibiendoDanio = true;
             Vector2 rebote = new Vector2(transform.position.x - direccion.x, 0.5f).normalized;
             rb.AddForce(rebote*fuerzaRebote, ForceMode2D.Impulse);
