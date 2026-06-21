@@ -5,10 +5,12 @@ public class EnemyController : MonoBehaviour
     public Transform player;
     public float detectionRadius = 5.0f;
     public float speed = 2.0f;
+    public float fuerzaRebote = 10f;
 
     private Rigidbody2D rb;
     private Vector2 movement;
     private bool enMovimiento;
+    private bool recibiendoDanio;
     private Animator animator;
 
 
@@ -30,11 +32,11 @@ public class EnemyController : MonoBehaviour
 
             if (direction.x < 0)
             {
-                transform.localScale = new Vector3(-1, 1, 1);
+                transform.localScale = new Vector3(1, 1, 1);
             }
             if (direction.x > 0)
             {
-                transform.localScale = new Vector3(1, 1, 1);
+                transform.localScale = new Vector3(-1, 1, 1);
             }
 
             movement = new Vector2(direction.x, 0);
@@ -47,10 +49,13 @@ public class EnemyController : MonoBehaviour
             enMovimiento = false;
         }
 
-        rb.MovePosition(rb.position +  movement * speed * Time.deltaTime);
+        if (!recibiendoDanio)
+        {
+            rb.MovePosition(rb.position + movement * speed * Time.deltaTime);
+        }
 
         animator.SetBool("enMovimiento", enMovimiento);
-
+        animator.SetBool("recibeDanio", recibiendoDanio);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -61,6 +66,30 @@ public class EnemyController : MonoBehaviour
 
             collision.gameObject.GetComponent<PlayerController>().RecibeDanio(direccionDanio, 1);
         }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Espada"))
+        {
+            Vector2 direccionDanio = new Vector2(collision.gameObject.transform.position.x, 0);
+
+            RecibeDanio(direccionDanio, 1);
+        }
+    }
+    public void RecibeDanio(Vector2 direccion, int cantDanio)
+    {
+        if (!recibiendoDanio)
+        {
+            recibiendoDanio = true;
+            Vector2 rebote = new Vector2(transform.position.x - direccion.x, 0.2f).normalized;
+            rb.AddForce(rebote * fuerzaRebote, ForceMode2D.Impulse);
+        }
+    }
+    public void DesactivaDanio()
+    {
+        recibiendoDanio = false;
+        rb.linearVelocity = Vector2.zero;
     }
 
     private void OnDrawGizmosSelected()

@@ -19,6 +19,7 @@ public class PlayerController : MonoBehaviour
 
     private bool enSuelo;
     private bool recibiendoDanio;
+    private bool atacando;
     private Rigidbody2D rb;
 
     public Animator animator;
@@ -31,13 +32,46 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (!atacando)
+        {
+            Movimiento();
+
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, longitudRaycast, capaSuelo);
+            enSuelo = hit.collider != null;
+
+            if (enSuelo && rb.linearVelocity.y < 0 && fall)
+            {
+                playerSoundController.playCaida();
+                fall = false;
+            }
+
+            if (enSuelo && Input.GetKeyDown(KeyCode.Space) && !recibiendoDanio)
+            {
+                fall = true;
+                playerSoundController.playSaltar();
+                rb.AddForce(new Vector2(0f, fuerzaSalto), ForceMode2D.Impulse);
+            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.E) && !atacando && enSuelo)
+        {
+            Atacando();
+        }
+
+        animator.SetBool("ensuelo", enSuelo);
+        animator.SetBool("recibeDanio", recibiendoDanio);
+        animator.SetBool("Atacando", atacando);
+    }
+
+    public void Movimiento()
+    {   
         float velocidadX = Input.GetAxis("Horizontal") * Time.deltaTime * velocidad;
 
 
-        if (velocidadX !=0 && enSuelo && !recibiendoDanio )
+        if (velocidadX != 0 && enSuelo && !recibiendoDanio)
         {
             cont += Time.deltaTime;
-            if(cont >= timeByStep)
+            if (cont >= timeByStep)
             {
                 cont = 0f;
                 if (step1)
@@ -65,27 +99,8 @@ public class PlayerController : MonoBehaviour
 
         Vector3 posicion = transform.position;
 
-        if(!recibiendoDanio)
+        if (!recibiendoDanio)
             transform.position = new Vector3(velocidadX + posicion.x, posicion.y, posicion.z);
-
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, longitudRaycast, capaSuelo);
-        enSuelo = hit.collider != null;
-
-        if(enSuelo && rb.linearVelocity.y<0 && fall)
-        {
-            playerSoundController.playCaida();
-            fall = false;
-        }
-
-        if (enSuelo && Input.GetKeyDown(KeyCode.Space) && !recibiendoDanio)
-        {
-            fall = true;
-            playerSoundController.playSaltar();
-            rb.AddForce(new Vector2(0f, fuerzaSalto), ForceMode2D.Impulse);
-        }
-
-        animator.SetBool("ensuelo", enSuelo);
-        animator.SetBool("recibeDanio", recibiendoDanio);
     }
 
     public void RecibeDanio(Vector2 direccion, int cantDanio)
@@ -107,6 +122,14 @@ public class PlayerController : MonoBehaviour
         rb.linearVelocity = Vector2.zero; 
     }
 
+    public void Atacando()
+    {
+        atacando = true;
+    }
+    public void DesactivaAtaque()
+    {
+        atacando = false;
+    }
 
     private void OnDrawGizmos()
     {
