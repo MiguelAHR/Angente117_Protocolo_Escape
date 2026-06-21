@@ -5,6 +5,7 @@ public class PlayerController : MonoBehaviour
     public PlayerSoundController playerSoundController;
     
     public float velocidad = 5f;
+    public int vida = 3;
     public bool step1 = false;
     public bool fall = false;
 
@@ -13,13 +14,15 @@ public class PlayerController : MonoBehaviour
 
 
     public float fuerzaSalto = 10f;
-    public float fuerzaRebote = 10f;
+    public float fuerzaRebote = 6f;
     public float longitudRaycast = 0.1f;
     public LayerMask capaSuelo;
 
     private bool enSuelo;
     private bool recibiendoDanio;
     private bool atacando;
+    public bool muerto;
+
     private Rigidbody2D rb;
 
     public Animator animator;
@@ -32,35 +35,39 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!atacando)
+        if (!muerto)
         {
-            Movimiento();
-
-            RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, longitudRaycast, capaSuelo);
-            enSuelo = hit.collider != null;
-
-            if (enSuelo && rb.linearVelocity.y < 0 && fall)
+            if (!atacando)
             {
-                playerSoundController.playCaida();
-                fall = false;
+                Movimiento();
+
+                RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, longitudRaycast, capaSuelo);
+                enSuelo = hit.collider != null;
+
+                if (enSuelo && rb.linearVelocity.y < 0 && fall)
+                {
+                    playerSoundController.playCaida();
+                    fall = false;
+                }
+
+                if (enSuelo && Input.GetKeyDown(KeyCode.Space) && !recibiendoDanio)
+                {
+                    fall = true;
+                    playerSoundController.playSaltar();
+                    rb.AddForce(new Vector2(0f, fuerzaSalto), ForceMode2D.Impulse);
+                }
             }
 
-            if (enSuelo && Input.GetKeyDown(KeyCode.Space) && !recibiendoDanio)
+            if (Input.GetKeyDown(KeyCode.E) && !atacando && enSuelo)
             {
-                fall = true;
-                playerSoundController.playSaltar();
-                rb.AddForce(new Vector2(0f, fuerzaSalto), ForceMode2D.Impulse);
+                Atacando();
             }
-        }
-
-        if (Input.GetKeyDown(KeyCode.E) && !atacando && enSuelo)
-        {
-            Atacando();
         }
 
         animator.SetBool("ensuelo", enSuelo);
         animator.SetBool("recibeDanio", recibiendoDanio);
         animator.SetBool("Atacando", atacando);
+        animator.SetBool("muerto", muerto);
     }
 
     public void Movimiento()
@@ -110,8 +117,16 @@ public class PlayerController : MonoBehaviour
             playerSoundController.playRecibirDanio();
 
             recibiendoDanio = true;
-            Vector2 rebote = new Vector2(transform.position.x - direccion.x, 0.5f).normalized;
-            rb.AddForce(rebote*fuerzaRebote, ForceMode2D.Impulse);
+            vida -= cantDanio;
+            if (vida <= 0)
+            {
+                muerto = true;
+            }
+            if (!muerto)
+            {
+                Vector2 rebote = new Vector2(transform.position.x - direccion.x, 0.5f).normalized;
+                rb.AddForce(rebote * fuerzaRebote, ForceMode2D.Impulse);
+            }
         }
     }
 
