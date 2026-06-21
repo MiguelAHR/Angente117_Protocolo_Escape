@@ -5,7 +5,7 @@ public class PlayerController : MonoBehaviour
     public PlayerSoundController playerSoundController;
     
     public float velocidad = 5f;
-    public int vida = 3;
+    public int vida = 4;
     public bool step1 = false;
     public bool fall = false;
 
@@ -73,9 +73,9 @@ public class PlayerController : MonoBehaviour
     public void Movimiento()
     {   
         float velocidadX = Input.GetAxis("Horizontal") * Time.deltaTime * velocidad;
+        
 
-
-        if (velocidadX != 0 && enSuelo && !recibiendoDanio)
+        if (velocidadX != 0 && enSuelo && !recibiendoDanio && !atacando)
         {
             cont += Time.deltaTime;
             if (cont >= timeByStep)
@@ -120,6 +120,7 @@ public class PlayerController : MonoBehaviour
             vida -= cantDanio;
             if (vida <= 0)
             {
+                playerSoundController.playMuerte();
                 muerto = true;
             }
             if (!muerto)
@@ -139,6 +140,7 @@ public class PlayerController : MonoBehaviour
 
     public void Atacando()
     {
+        playerSoundController.playAtacar();
         atacando = true;
     }
     public void DesactivaAtaque()
