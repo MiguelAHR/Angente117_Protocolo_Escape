@@ -6,7 +6,7 @@ public class EnemyController : MonoBehaviour
     public float detectionRadius = 5.0f;
     public float speed = 3.0f;
     public float fuerzaRebote = 6f;
-    public int vida = 3;
+    public int vida = 4;
 
     private Rigidbody2D rb;
     private Vector2 movement;
