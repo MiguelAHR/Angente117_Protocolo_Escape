@@ -5,7 +5,7 @@ public class PlayerController : MonoBehaviour
     public PlayerSoundController playerSoundController;
     
     public float velocidad = 5f;
-    public int vida = 4;
+    public int vida = 3;
     public bool step1 = false;
     public bool fall = false;
 
