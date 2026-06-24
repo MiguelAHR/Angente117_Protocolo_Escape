@@ -48306,7 +48306,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyController
   player: {fileID: 1416628001}
-  detectionRadius: 2.6
+  detectionRadius: 2.2
   speed: 4
   fuerzaRebote: 4
   vida: 3
