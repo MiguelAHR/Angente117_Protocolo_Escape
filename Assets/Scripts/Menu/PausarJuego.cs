@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PausarJuego : MonoBehaviour
 {
@@ -38,4 +39,14 @@ public class PausarJuego : MonoBehaviour
         juegoPausado = true;
     }
 
+    public void irAlMenu()
+    {
+        Reanudar();
+        SceneManager.LoadScene("Menu");
+    }
+    public void irAlSelector()
+    {
+        Reanudar();
+        SceneManager.LoadScene("Niveles");
+    }
 }
