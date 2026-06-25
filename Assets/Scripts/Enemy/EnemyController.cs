@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
+    public EnemySoundController enemySoundController;
+
     public Transform player;
     public float detectionRadius = 5.0f;
     public float speed = 3.0f;
@@ -99,12 +101,14 @@ public class EnemyController : MonoBehaviour
     }
     public void RecibeDanio(Vector2 direccion, int cantDanio)
     {
+        enemySoundController.playRecibirDanio();
         if (!recibiendoDanio)
         {
             vida -= cantDanio;
             recibiendoDanio = true;
             if (vida <= 0)
             {
+                enemySoundController.playMuerte();
                 muerto = true;
                 enMovimiento = false;
             }
