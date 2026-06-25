@@ -345,7 +345,7 @@ GameObject:
   - component: {fileID: 806644799}
   - component: {fileID: 806644804}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: Selector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -462,7 +462,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c34c4b8b7e112c44089952a61bccdd60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PausarJuego
-  menuPausa: {fileID: 0}
+  menuPausa: {fileID: 806644798}
   juegoPausado: 0
 --- !u!1 &984087984
 GameObject:
@@ -553,7 +553,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: 15e8fe3481e337b49af0d83829b1739b, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
