@@ -1,16 +1,22 @@
 fileFormatVersion: 2
-guid: 2d185dfa5ed62dc47a50f205dba4d808
+guid: fb16a0602cf93b548afe49e19126d7b7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1346620456353111794
-    second: tilesFloor_0
+      213: -2357531329851304006
+    second: SmokeFX Lite SpriteSheet 3A-2_0
   - first:
-      213: -8540093365262954174
-    second: tilesFloor_1
+      213: 7432337838900034461
+    second: SmokeFX Lite SpriteSheet 3A-2_1
   - first:
-      213: -421584863972259730
-    second: tilesFloor_2
+      213: -3084224345245717987
+    second: SmokeFX Lite SpriteSheet 3A-2_2
+  - first:
+      213: -1620653498662148703
+    second: SmokeFX Lite SpriteSheet 3A-2_3
+  - first:
+      213: 4342086463560742097
+    second: SmokeFX Lite SpriteSheet 3A-2_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,13 +112,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tilesFloor_0
+      name: SmokeFX Lite SpriteSheet 3A-2_0
       rect:
         serializedVersion: 2
-        x: 104
-        y: 782
-        width: 416
-        height: 65
+        x: 30
+        y: 27
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,20 +127,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e016cc364d7df4de0800000000000000
-      internalID: -1346620456353111794
+      spriteID: ab7db590fbd584fd0800000000000000
+      internalID: -2357531329851304006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesFloor_1
+      name: SmokeFX Lite SpriteSheet 3A-2_1
       rect:
         serializedVersion: 2
-        x: 14
-        y: 344
-        width: 65
-        height: 416
+        x: 93
+        y: 30
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 241d4d6e45e7b7980800000000000000
-      internalID: -8540093365262954174
+      spriteID: d9bb452e2e7f42760800000000000000
+      internalID: 7432337838900034461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tilesFloor_2
+      name: SmokeFX Lite SpriteSheet 3A-2_2
       rect:
         serializedVersion: 2
-        x: 95
-        y: 0
-        width: 433
-        height: 769
+        x: 156
+        y: 31
+        width: 15
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,8 +171,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e688044ccca362af0800000000000000
-      internalID: -421584863972259730
+      spriteID: d1a64068c42a235d0800000000000000
+      internalID: -3084224345245717987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeFX Lite SpriteSheet 3A-2_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 32
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5af34ca384289e0800000000000000
+      internalID: -1620653498662148703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeFX Lite SpriteSheet 3A-2_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 34
+        width: 82
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4f19c12a0324c30800000000000000
+      internalID: 4342086463560742097
       vertices: []
       indices: 
       edges: []
@@ -185,9 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tilesFloor_0: -1346620456353111794
-      tilesFloor_1: -8540093365262954174
-      tilesFloor_2: -421584863972259730
+      SmokeFX Lite SpriteSheet 3A-2_0: -2357531329851304006
+      SmokeFX Lite SpriteSheet 3A-2_1: 7432337838900034461
+      SmokeFX Lite SpriteSheet 3A-2_2: -3084224345245717987
+      SmokeFX Lite SpriteSheet 3A-2_3: -1620653498662148703
+      SmokeFX Lite SpriteSheet 3A-2_4: 4342086463560742097
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

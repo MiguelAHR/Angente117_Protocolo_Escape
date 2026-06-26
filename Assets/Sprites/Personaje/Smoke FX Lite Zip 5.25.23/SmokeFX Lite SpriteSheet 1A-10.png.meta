@@ -1,37 +1,28 @@
 fileFormatVersion: 2
-guid: 86872101b316ca445b8e38a9296ec669
+guid: c916f264324415f4e98610e9bea1345a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6236319256127767306
-    second: spriteSheet_lightBulbSmallAnimation_48x48_0
+      213: 6524921268094686319
+    second: SmokeFX Lite SpriteSheet 1A-10_0
   - first:
-      213: -8483565672631542121
-    second: spriteSheet_lightBulbSmallAnimation_48x48_1
+      213: -3371825035899956770
+    second: SmokeFX Lite SpriteSheet 1A-10_1
   - first:
-      213: 3965151027339286650
-    second: spriteSheet_lightBulbSmallAnimation_48x48_2
+      213: -5669726771628564017
+    second: SmokeFX Lite SpriteSheet 1A-10_2
   - first:
-      213: 69760512990161490
-    second: spriteSheet_lightBulbSmallAnimation_48x48_3
+      213: 5867082576630158361
+    second: SmokeFX Lite SpriteSheet 1A-10_3
   - first:
-      213: -1592843992649096855
-    second: spriteSheet_lightBulbSmallAnimation_48x48_4
+      213: 2598144125724246486
+    second: SmokeFX Lite SpriteSheet 1A-10_4
   - first:
-      213: 7171895719300554736
-    second: spriteSheet_lightBulbSmallAnimation_48x48_5
+      213: -7844884644126168471
+    second: SmokeFX Lite SpriteSheet 1A-10_5
   - first:
-      213: -4420981761079068366
-    second: spriteSheet_lightBulbSmallAnimation_48x48_6
-  - first:
-      213: -4595890472301765691
-    second: spriteSheet_lightBulbSmallAnimation_48x48_7
-  - first:
-      213: 710145275575679183
-    second: spriteSheet_lightBulbSmallAnimation_48x48_8
-  - first:
-      213: 1226747706061244133
-    second: spriteSheet_lightBulbSmallAnimation_48x48_9
+      213: -2154280232079654432
+    second: SmokeFX Lite SpriteSheet 1A-10_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -127,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spriteSheet_lightBulbSmallAnimation_48x48_0
+      name: SmokeFX Lite SpriteSheet 1A-10_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 32
-        height: 40
+        x: 24
+        y: 15
+        width: 14
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -142,20 +133,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a038c6f625bdb8650800000000000000
-      internalID: 6236319256127767306
+      spriteID: f64dc24a25d2d8a50800000000000000
+      internalID: 6524921268094686319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteSheet_lightBulbSmallAnimation_48x48_1
+      name: SmokeFX Lite SpriteSheet 1A-10_1
       rect:
         serializedVersion: 2
-        x: 56
-        y: 0
-        width: 32
-        height: 40
+        x: 80
+        y: 15
+        width: 16
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79e5916f7f1544a80800000000000000
-      internalID: -8483565672631542121
+      spriteID: ed11a6a9efed431d0800000000000000
+      internalID: -3371825035899956770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteSheet_lightBulbSmallAnimation_48x48_2
+      name: SmokeFX Lite SpriteSheet 1A-10_2
       rect:
         serializedVersion: 2
-        x: 104
-        y: 0
-        width: 32
-        height: 40
+        x: 138
+        y: 15
+        width: 15
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,42 +177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a785551e9db070730800000000000000
-      internalID: 3965151027339286650
+      spriteID: fc1ae8b6a851151b0800000000000000
+      internalID: -5669726771628564017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteSheet_lightBulbSmallAnimation_48x48_3
-      rect:
-        serializedVersion: 2
-        x: 152
-        y: 0
-        width: 32
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 25aa02421d6d7f000800000000000000
-      internalID: 69760512990161490
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spriteSheet_lightBulbSmallAnimation_48x48_4
+      name: SmokeFX Lite SpriteSheet 1A-10_3
       rect:
         serializedVersion: 2
         x: 200
-        y: 0
-        width: 32
-        height: 46
+        y: 15
+        width: 13
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9612983f3d415e9e0800000000000000
-      internalID: -1592843992649096855
+      spriteID: 9149cefa4801c6150800000000000000
+      internalID: 5867082576630158361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteSheet_lightBulbSmallAnimation_48x48_5
+      name: SmokeFX Lite SpriteSheet 1A-10_4
       rect:
         serializedVersion: 2
-        x: 242
-        y: 0
-        width: 44
-        height: 46
+        x: 262
+        y: 15
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ffdd0b8821b78360800000000000000
-      internalID: 7171895719300554736
+      spriteID: 6d1cf0911567e0420800000000000000
+      internalID: 2598144125724246486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteSheet_lightBulbSmallAnimation_48x48_6
+      name: SmokeFX Lite SpriteSheet 1A-10_5
       rect:
         serializedVersion: 2
-        x: 290
-        y: 0
-        width: 44
-        height: 40
+        x: 325
+        y: 15
+        width: 10
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,20 +243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 239b66cf28485a2c0800000000000000
-      internalID: -4420981761079068366
+      spriteID: 96a61faeafe512390800000000000000
+      internalID: -7844884644126168471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spriteSheet_lightBulbSmallAnimation_48x48_7
+      name: SmokeFX Lite SpriteSheet 1A-10_6
       rect:
         serializedVersion: 2
-        x: 335
-        y: 17
-        width: 8
-        height: 14
+        x: 388
+        y: 15
+        width: 132
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,52 +265,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5cbd9db27fd1830c0800000000000000
-      internalID: -4595890472301765691
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spriteSheet_lightBulbSmallAnimation_48x48_8
-      rect:
-        serializedVersion: 2
-        x: 344
-        y: 0
-        width: 32
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fc83c999d51fad900800000000000000
-      internalID: 710145275575679183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spriteSheet_lightBulbSmallAnimation_48x48_9
-      rect:
-        serializedVersion: 2
-        x: 377
-        y: 17
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e64ec00a88460110800000000000000
-      internalID: 1226747706061244133
+      spriteID: 0e10f34fa857a12e0800000000000000
+      internalID: -2154280232079654432
       vertices: []
       indices: 
       edges: []
@@ -360,16 +285,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spriteSheet_lightBulbSmallAnimation_48x48_0: 6236319256127767306
-      spriteSheet_lightBulbSmallAnimation_48x48_1: -8483565672631542121
-      spriteSheet_lightBulbSmallAnimation_48x48_2: 3965151027339286650
-      spriteSheet_lightBulbSmallAnimation_48x48_3: 69760512990161490
-      spriteSheet_lightBulbSmallAnimation_48x48_4: -1592843992649096855
-      spriteSheet_lightBulbSmallAnimation_48x48_5: 7171895719300554736
-      spriteSheet_lightBulbSmallAnimation_48x48_6: -4420981761079068366
-      spriteSheet_lightBulbSmallAnimation_48x48_7: -4595890472301765691
-      spriteSheet_lightBulbSmallAnimation_48x48_8: 710145275575679183
-      spriteSheet_lightBulbSmallAnimation_48x48_9: 1226747706061244133
+      SmokeFX Lite SpriteSheet 1A-10_0: 6524921268094686319
+      SmokeFX Lite SpriteSheet 1A-10_1: -3371825035899956770
+      SmokeFX Lite SpriteSheet 1A-10_2: -5669726771628564017
+      SmokeFX Lite SpriteSheet 1A-10_3: 5867082576630158361
+      SmokeFX Lite SpriteSheet 1A-10_4: 2598144125724246486
+      SmokeFX Lite SpriteSheet 1A-10_5: -7844884644126168471
+      SmokeFX Lite SpriteSheet 1A-10_6: -2154280232079654432
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

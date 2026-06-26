@@ -3,6 +3,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public PlayerSoundController playerSoundController;
+    public ParticleSystem particulaSalto;
     
     public float velocidad = 5f;
     public int vida = 3;
@@ -54,6 +55,7 @@ public class PlayerController : MonoBehaviour
                 {
                     fall = true;
                     playerSoundController.playSaltar();
+                    crearParticulaSalto();
                     rb.AddForce(new Vector2(0f, fuerzaSalto), ForceMode2D.Impulse);
                 }
             }
@@ -68,6 +70,11 @@ public class PlayerController : MonoBehaviour
         animator.SetBool("recibeDanio", recibiendoDanio);
         animator.SetBool("Atacando", atacando);
         animator.SetBool("muerto", muerto);
+    }
+
+    void crearParticulaSalto()
+    {
+        particulaSalto.Play();
     }
 
     public void Movimiento()
