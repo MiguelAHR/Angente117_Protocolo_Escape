@@ -129,6 +129,11 @@ public class PlayerController : MonoBehaviour
             {
                 playerSoundController.playMuerte();
                 muerto = true;
+                
+                if(GameManager.Instance !=null)
+                {
+                    GameManager.Instance.GameOver();
+                }
             }
             if (!muerto)
             {
