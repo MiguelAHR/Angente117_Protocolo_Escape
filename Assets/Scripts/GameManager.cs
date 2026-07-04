@@ -57,6 +57,7 @@ public class GameManager : MonoBehaviour
     public void GameOver()
     {
         if (gameOverActivo) return;
+
         gameOverActivo = true;
 
         if(gameOverPanel !=null)
