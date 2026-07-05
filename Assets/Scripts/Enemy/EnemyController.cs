@@ -11,7 +11,7 @@ public class EnemyController : MonoBehaviour
     public int vida = 4;
 
     private Rigidbody2D rb;
-    private Vector2 movement;
+    private float movementX;
     private bool enMovimiento;
     private bool muerto;
     private bool recibiendoDanio;
@@ -58,19 +58,19 @@ public class EnemyController : MonoBehaviour
                 transform.localScale = new Vector3(-1, 1, 1);
             }
 
-            movement = new Vector2(direction.x, 0);
+            movementX = direction.x;
 
             enMovimiento = true;
         }
         else
         {
-            movement = Vector2.zero;
+            movementX = 0;
             enMovimiento = false;
         }
 
         if (!recibiendoDanio)
         {
-            rb.MovePosition(rb.position + movement * speed * Time.deltaTime);
+            rb.linearVelocity = new Vector2(movementX * speed, rb.linearVelocity.y);
         }
     }
 
