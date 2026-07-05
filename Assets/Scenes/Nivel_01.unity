@@ -24458,7 +24458,7 @@ ParticleSystem:
     gravityModifier:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.5
+      scalar: 2
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -30310,7 +30310,7 @@ Transform:
   m_GameObject: {fileID: 1416627998}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 42.06, y: -7.18, z: 0}
+  m_LocalPosition: {x: -12.51, y: -2.36, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -30434,7 +30434,7 @@ MonoBehaviour:
   fall: 0
   timeByStep: 0.3
   fuerzaSalto: 5
-  fuerzaRebote: 5
+  fuerzaRebote: 4
   longitudRaycast: 0.8
   capaSuelo:
     serializedVersion: 2
@@ -33652,8 +33652,8 @@ MonoBehaviour:
   enemySoundController: {fileID: 1722868935}
   player: {fileID: 1416628001}
   detectionRadius: 2.2
-  speed: 4
-  fuerzaRebote: 2
+  speed: 1.5
+  fuerzaRebote: 3
   vida: 3
 --- !u!61 &1722868930
 BoxCollider2D:
@@ -38978,7 +38978,7 @@ Transform:
   m_GameObject: {fileID: 2126496539}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7, y: -1, z: 0}
+  m_LocalPosition: {x: 11.98, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
