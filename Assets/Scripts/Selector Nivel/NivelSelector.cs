@@ -18,13 +18,13 @@ public class NivelSelector : MonoBehaviour
         for (int i = 1; i <= totalLevels; i++) 
         {
             GameObject buttonObj = Instantiate(nivelButtonPrefab, buttonContainer);
-            buttonObj.GetComponentInChildren<TextMeshProUGUI>().text = "Nivel " + i;
+            buttonObj.GetComponentInChildren<TextMeshProUGUI>().text = i.ToString("00");
 
             int levelIndex = i;
             buttonObj.GetComponent<Button>().onClick.AddListener(() =>
             {
                 Time.timeScale =1f;
-                SceneManager.LoadScene("Nivel_0" +  levelIndex);
+                SceneManager.LoadScene($"Nivel_{levelIndex:00}");
             });
         }
     }
