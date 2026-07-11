@@ -7,6 +7,20 @@ public class PasarNivel : MonoBehaviour
     [Header("Configuración de la puerta")]
     [SerializeField] private Animator animadorPuerta;
 
+    [Header("Sonido")]
+    [SerializeField] private AudioSource fuenteAudio;
+    [SerializeField] private AudioClip sonidoUsarLlave;
+    [SerializeField] private AudioClip sonidoAbrirPuerta;
+
+    [Range(0f, 1f)]
+    [SerializeField] private float volumenSonido = 1f;
+
+    [Range(0f, 1f)]
+    [SerializeField] private float volumenLlave = 1f;
+
+    [Range(0f, 1f)]
+    [SerializeField] private float volumenPuerta = 1f;
+
     // Evita que la puerta se active varias veces.
     private bool abriendoPuerta;
 
@@ -17,6 +31,11 @@ public class PasarNivel : MonoBehaviour
         if (animadorPuerta == null)
         {
             animadorPuerta = GetComponent<Animator>();
+        }
+
+        if (fuenteAudio == null)
+        {
+            fuenteAudio = GetComponent<AudioSource>();
         }
     }
 
@@ -48,12 +67,30 @@ public class PasarNivel : MonoBehaviour
 
         abriendoPuerta = true;
 
+        // Sonido de introducir o utilizar la llave.
+        if (fuenteAudio != null && sonidoUsarLlave != null)
+        {
+            fuenteAudio.PlayOneShot(
+                sonidoUsarLlave,
+                volumenSonido
+            );
+        }
+
         // Comenzar animación y cambio de nivel.
         StartCoroutine(AbrirPuertaYCambiarNivel());
     }
 
     private IEnumerator AbrirPuertaYCambiarNivel()
     {
+        if (animadorPuerta == null)
+        {
+            Debug.LogError(
+                "No se encontró el Animator de Puerta_salida."
+            );
+
+            yield break;
+        }
+
         // 1. Encender la puerta: cambia a color celeste.
         animadorPuerta.Play(
             "Base Layer.exit_on_closed",
@@ -76,6 +113,15 @@ public class PasarNivel : MonoBehaviour
             0,
             0f
         );
+
+        // Sonido mecánico de apertura.
+        if (fuenteAudio != null && sonidoAbrirPuerta != null)
+        {
+            fuenteAudio.PlayOneShot(
+                sonidoAbrirPuerta,
+                volumenPuerta
+            );
+        }
 
         yield return null;
 
