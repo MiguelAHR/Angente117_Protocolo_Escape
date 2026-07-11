@@ -6,7 +6,8 @@ public class PlayerController : MonoBehaviour
     public ParticleSystem particulaSalto;
     
     public float velocidad = 5f;
-    public int vida = 3;
+    public int vida = 4;
+    public int vidaMax = 4;
     public bool step1 = false;
     public bool fall = false;
 
@@ -31,6 +32,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        vida = vidaMax;
     }
 
     // Update is called once per frame
@@ -132,7 +134,7 @@ public class PlayerController : MonoBehaviour
                 
                 if(GameManager.Instance !=null)
                 {
-                    GameManager.Instance.GameOver();
+                    GameManager.Instance.RespawnJugador();
                 }
             }
             if (!muerto)
@@ -141,6 +143,21 @@ public class PlayerController : MonoBehaviour
                 rb.AddForce(rebote * fuerzaRebote, ForceMode2D.Impulse);
             }
         }
+    }
+
+    public void Respawn(Vector3 posicionCheckpoint)
+    {
+        muerto = false;
+        recibiendoDanio = false;
+        atacando = false;
+        vida = vidaMax;
+
+        transform.position = posicionCheckpoint;
+
+        rb.linearVelocity = Vector2.zero;
+
+        animator.SetBool("muerto", false);
+        animator.SetBool("recibeDanio", false);
     }
 
     public void DesactivaDanio()

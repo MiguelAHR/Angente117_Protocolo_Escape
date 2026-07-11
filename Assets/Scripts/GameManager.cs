@@ -2,6 +2,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class GameManager : MonoBehaviour
 {
@@ -11,6 +12,10 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI gameOverText;
     public Button reiniciarButton;
     public Button menuButton;
+
+    [Header("Checkpoint")]
+    public Vector3 checkpointPosicion;
+    private Checkpoint checkpointActual;
     
     private bool gameOverActivo = false;
 
@@ -36,6 +41,13 @@ public class GameManager : MonoBehaviour
         
         if(menuButton !=null)
            menuButton.onClick.AddListener(IrAlMenu);
+
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if(player != null)
+        {
+            checkpointPosicion = player.transform.position;
+        }
+
     }
 
     void Update()
@@ -81,5 +93,34 @@ public class GameManager : MonoBehaviour
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("Menu");
+    }
+
+    public void ActualizarCheckpoint(Vector3 nuevaPosicion, Checkpoint nuevoCheckpoint)
+    {
+        checkpointPosicion = nuevaPosicion;
+        checkpointActual = nuevoCheckpoint;
+    }
+
+    public void RespawnJugador()
+    {
+        StartCoroutine(RespawnCoroutine());
+    }
+
+    IEnumerator RespawnCoroutine()
+    {
+        yield return new WaitForSeconds(1f);
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player != null)
+        {
+            PlayerController pc = player.GetComponentInChildren<PlayerController>();
+            if (pc != null)
+            {
+                pc.Respawn(checkpointPosicion);
+            }
+            else
+            {
+                Debug.LogWarning("No se encontró PlayerController en el objeto con tag Player");
+            }
+        }
     }
 }
